@@ -3,11 +3,7 @@ package com.example.BGF;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@S
-
-
-
-pringBootApplication
+@SpringBootApplication
 public class BgfApplication {
 
     public static void main(String[] args) {
