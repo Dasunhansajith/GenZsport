@@ -6,5 +6,10 @@
       <user-name>root</user-name>
       <schema-mapping />
     </data-source>
+    <data-source name="c@localhost" uuid="89c3071e-e429-420b-b3f3-58ae28890a39">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
   </component>
 </project>

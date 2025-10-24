@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4832ca4f-c815-4d78-bf01-40de74a702c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BGF/src/main/java/com/example/BGF/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BGF/src/main/java/com/example/BGF/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BGF/src/main/java/com/example/BGF/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BGF/src/main/java/com/example/BGF/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BGF/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BGF/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BGF/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BGF/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +100,18 @@
       <workItem from="1759122533955" duration="1750000" />
       <workItem from="1759134698545" duration="1744000" />
       <workItem from="1759141144862" duration="4951000" />
-      <workItem from="1759155665268" duration="1952000" />
+      <workItem from="1759155665268" duration="3254000" />
+      <workItem from="1759205351266" duration="1877000" />
+      <workItem from="1759211235514" duration="863000" />
+      <workItem from="1759744501655" duration="1892000" />
+      <workItem from="1759747544989" duration="560000" />
+      <workItem from="1759748395786" duration="54000" />
+      <workItem from="1759748467761" duration="584000" />
+      <workItem from="1759749357951" duration="96000" />
+      <workItem from="1759749525577" duration="1300000" />
+      <workItem from="1759772711419" duration="1064000" />
+      <workItem from="1759945429088" duration="1499000" />
+      <workItem from="1761230753037" duration="9185000" />
     </task>
     <servers />
   </component>
