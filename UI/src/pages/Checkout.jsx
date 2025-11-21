@@ -97,8 +97,10 @@ const Checkout = () => {
 
   const validateForm = () => {
     const newErrors = {};
-    if (!formData.fullName.trim()) {
-      newErrors.fullName = 'Full name is required';
+    if (
+      !formData.fullName.trim()) {
+      newErrors.fullName = 'Full name is required'
+      ;
     }
     if (!formData.address.trim()) {
       newErrors.address = 'Address is required';
